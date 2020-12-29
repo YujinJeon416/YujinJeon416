@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujinJeon416&count_bg=%23F7E50A&title_bg=%23C691ED&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devjeon416@gmail.com)](mailto:devjeon416@gmail.com)
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F7BF07&title_bg=%23AA5DE3&icon=&icon_color=%23F3F3F3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devjeon416@gmail.com)](mailto:devjeon416@gmail.com)   
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>   
 
 ✨  Good morning. ✨ I am currently a student whose goal is to become a junior developer.    
 I am constantly working on the daily commit movement.    

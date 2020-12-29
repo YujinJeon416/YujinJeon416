@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujinJeon416&count_bg=%23F7E50A&title_bg=%23C691ED&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-** ✨  Good morning. ✨ I am currently a student whose goal is to become a junior developer. 
+ ✨  Good morning. ✨ I am currently a student whose goal is to become a junior developer. 
 I am constantly working on the daily commit movement. 
 Whenever I want to give up, I always shout "I make it myself" . 
 

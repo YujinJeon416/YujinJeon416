@@ -13,7 +13,7 @@ Whenever I want to give up, I always shout "I make it myself" .
 
 
 
-🔭 I’m currently working on ...   
+'🔭 I’m currently working on ... '  
 🌱 I'm currently learning - Java   
 👯 I’m looking to collaborate on ...   
 🤔 I’m looking  for help with- a study to study together   

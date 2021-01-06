@@ -12,32 +12,33 @@ Whenever I want to give up, I always shout "I make it myself" .
 
 ## Education &#127976;
 ___
-* (Mar,2013 ~ Feb,2020) Department of Media Arts and Sciences, Korea National Open University
+* (Mar,2012 ~ Aug,2019) Department of Media Arts and Sciences, Korea National Open University
 * (Mar,2006 ~ Feb,2009) Department of Nursing, Sahmyook Health University 
 
 
 ## Work experience &#128188;
  ___
-* (Jun,2020 ~ Aug,2020) RMS maintenance internship for IT Service Team in emoney
+* (Feb,2009 ~ Sep,2009) Bom 
+* (Feb,2009 ~ Sep,2009) Wonjin  
+* (Feb,2009 ~ Sep,2009) EverLand 
+* (Feb,2009 ~ Sep,2009) Yoon's 
+* (Feb,2009 ~ Sep,2009) Lotte Department   
+* (Feb,2009 ~ Sep,2009) National Cancer Center  
 
 ## certificate &#128195;
  ___
-* (Nov 22,2019) 정보처리기사
-* (Sep 19,2020) 한국사 2급
-* (Oct 30,2020) 컴퓨터 활용 1급
+* (Feb 07,2009) Teacher's license
+* (Feb 07,2009) Registered Nurse's licens
+* (Jan 12,2006) Driver's license
  
 ## Language Skills &#128104;
  ___
-* (Sep 28,2019) TOEIC score 875
+* (Sep 28,2019) TOEIC score 
 
 ## Projects &#128187;
  ___
 * (Oct,2014 ~ Nov,2014) 종합병원 관리 시스템
-* (Apr,2017 ~ Jun,2017) 중고 물품 거래 시스템
 * (May,2017 ~ Jun,2017) Health Care application
-* (Nov,2018 ~ Nov,2018) Study Mate
-* (Oct,2018 ~ Dec,2018) 함체 관리 시스템
-* (Sep,2018 ~ May,2019) Smart Reptile Cage(졸업작품)
 * (Nov,2019 ~ Dec,2019) 청기 백기 게임
 
 ## Activity &#128170;

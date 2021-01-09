@@ -19,7 +19,7 @@ ___
 ## Work experience &#128188;
  ___
 * (Dec,2015 ~ Dec,2018) Salon De Lash 
-* (Nov,2014 ~ Nov,2015) Bom Hosrital Operating room
+* (Nov,2014 ~ Nov,2015) Bom Hospital Operating room
 * (Mar,2013 ~ Oct,2014) Wonjin Hospital Operating room  
 * (Feb,2012 ~ Jul,2012) Yoon's medicine center
 * (Mar,2010 ~ Dec,2010) Lotte Department Health room

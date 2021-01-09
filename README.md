@@ -22,7 +22,7 @@ ___
 * (Nov,2014 ~ Nov,2015) Bom Hosrital Operating room
 * (Mar,2013 ~ Oct,2014) Wonjin Hospital Operating room  
 * (Feb,2012 ~ Jul,2012) Yoon's medicine center
-* (Mar,2010 ~ Dec,2010) Lotte Department   
+* (Mar,2010 ~ Dec,2010) Lotte Department Health room
 * (Feb,2009 ~ Jul,2009) National Cancer Center- Colon cancer Center 
 
 ## certificate &#128195;

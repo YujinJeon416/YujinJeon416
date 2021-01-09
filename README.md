@@ -18,17 +18,18 @@ ___
 
 ## Work experience &#128188;
  ___
-* (Feb,2009 ~ Sep,2009) Bom 
-* (Feb,2009 ~ Sep,2009) Wonjin  
-* (Feb,2009 ~ Sep,2009) EverLand 
-* (Feb,2009 ~ Sep,2009) Yoon's 
-* (Feb,2009 ~ Sep,2009) Lotte Department   
-* (Feb,2009 ~ Sep,2009) National Cancer Center  
+* (Dec,2015 ~ Dec,2018) Salon De Lash 
+* (Nov,2014 ~ Nov,2015) Bom Hosrital Operating room
+* (Mar,2013 ~ Oct,2014) Wonjin Hospital Operating room  
+* (Feb,2012 ~ Jul,2012) Yoon's medicine center
+* (Mar,2010 ~ Dec,2010) Lotte Department   
+* (Feb,2009 ~ Jul,2009) National Cancer Center- Colon cancer Center 
 
 ## certificate &#128195;
  ___
 * (Feb 07,2009) Teacher's license
-* (Feb 07,2009) Registered Nurse's licens
+* (Feb 07,2009) Registered Nurse's license
+* (May 20,2007) Smoking cessation counselor certificate
 * (Jan 12,2006) Driver's license
  
 ## Language Skills &#128104;

@@ -8,7 +8,9 @@
 
 ✨  Good morning. ✨ I am currently a student whose goal is to become a junior developer.    
 I am constantly working on the daily commit movement.    
-Whenever I want to give up, I always shout "I make it myself" .    
+Whenever I want to give up, I always shout "I make it myself" .   
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YujinJeon416)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education &#127976;
 ___

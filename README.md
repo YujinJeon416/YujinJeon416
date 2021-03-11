@@ -10,7 +10,7 @@
 I am constantly working on the daily commit movement.    
 Whenever I want to give up, I always shout "I make it myself" .   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YujinJeon416&theme=chartreuse-dark=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YujinJeon416&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## Education &#127976;
 ___

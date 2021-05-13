@@ -40,11 +40,11 @@ ___
 
 ## Projects &#128187;
  ___
-* (Oct,2014 ~ Nov,2014) 종합병원 관리 시스템
-* (May,2017 ~ Jun,2017) Health Care application
-* (Nov,2019 ~ Dec,2019) 청기 백기 게임
+* (Jan 13,2021 ~ Jan 20,2021) 심슨 MP3플레이어
+* (Feb 25,2021 ~ Mar 19,2021) Personal Homepage Project
+* (Apr 01,2021 ~ Apr 28,2021) 영화예매사이트 The Simpson Movie
 
 ## Activity &#128170;
  ___
-* (May,2014 ~ Nov,2014) 정보보안동아리 MA
+
 
